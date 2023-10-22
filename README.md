@@ -19,3 +19,5 @@ ToDo list:
     -optimising the structure and improoving the modularity
     -better debuging system
     -improoved precision (multiple ping runs)
+
+    Will see if its viable to implement on windows.
