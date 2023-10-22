@@ -13,11 +13,11 @@ Manual:
    -you can also select a nuber of ports to be scanned, it starts at .1 and checks until the given number
 
 ToDo list:
-    -multithreading (why not :D)
-    -manual port range settings
-    -manual gate selection
-    -optimising the structure and improoving the modularity
-    -better debuging system
-    -improoved precision (multiple ping runs)
+
+1. multithreading (why not :D)
+2. more user controll
+3. optimising the structure and improoving the modularity
+4. better debuging system
+5. improoved precision (multiple ping runs)
 
     Will see if its viable to implement on windows.
